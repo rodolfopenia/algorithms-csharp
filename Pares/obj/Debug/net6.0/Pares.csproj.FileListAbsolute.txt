@@ -1,0 +1,15 @@
+D:\Taller\Pares\bin\Debug\net6.0\Pares.exe
+D:\Taller\Pares\bin\Debug\net6.0\Pares.deps.json
+D:\Taller\Pares\bin\Debug\net6.0\Pares.runtimeconfig.json
+D:\Taller\Pares\bin\Debug\net6.0\Pares.dll
+D:\Taller\Pares\bin\Debug\net6.0\Pares.pdb
+D:\Taller\Pares\obj\Debug\net6.0\Pares.csproj.AssemblyReference.cache
+D:\Taller\Pares\obj\Debug\net6.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller\Pares\obj\Debug\net6.0\Pares.AssemblyInfoInputs.cache
+D:\Taller\Pares\obj\Debug\net6.0\Pares.AssemblyInfo.cs
+D:\Taller\Pares\obj\Debug\net6.0\Pares.csproj.CoreCompileInputs.cache
+D:\Taller\Pares\obj\Debug\net6.0\Pares.dll
+D:\Taller\Pares\obj\Debug\net6.0\refint\Pares.dll
+D:\Taller\Pares\obj\Debug\net6.0\Pares.pdb
+D:\Taller\Pares\obj\Debug\net6.0\Pares.genruntimeconfig.cache
+D:\Taller\Pares\obj\Debug\net6.0\ref\Pares.dll

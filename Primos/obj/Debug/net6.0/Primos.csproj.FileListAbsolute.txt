@@ -1,0 +1,15 @@
+D:\Taller\Primos\bin\Debug\net6.0\Primos.exe
+D:\Taller\Primos\bin\Debug\net6.0\Primos.deps.json
+D:\Taller\Primos\bin\Debug\net6.0\Primos.runtimeconfig.json
+D:\Taller\Primos\bin\Debug\net6.0\Primos.dll
+D:\Taller\Primos\bin\Debug\net6.0\Primos.pdb
+D:\Taller\Primos\obj\Debug\net6.0\Primos.csproj.AssemblyReference.cache
+D:\Taller\Primos\obj\Debug\net6.0\Primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller\Primos\obj\Debug\net6.0\Primos.AssemblyInfoInputs.cache
+D:\Taller\Primos\obj\Debug\net6.0\Primos.AssemblyInfo.cs
+D:\Taller\Primos\obj\Debug\net6.0\Primos.csproj.CoreCompileInputs.cache
+D:\Taller\Primos\obj\Debug\net6.0\Primos.dll
+D:\Taller\Primos\obj\Debug\net6.0\refint\Primos.dll
+D:\Taller\Primos\obj\Debug\net6.0\Primos.pdb
+D:\Taller\Primos\obj\Debug\net6.0\Primos.genruntimeconfig.cache
+D:\Taller\Primos\obj\Debug\net6.0\ref\Primos.dll
