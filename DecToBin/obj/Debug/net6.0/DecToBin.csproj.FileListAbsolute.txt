@@ -1,0 +1,15 @@
+D:\Projects\Algorithms\DecToBin\bin\Debug\net6.0\DecToBin.exe
+D:\Projects\Algorithms\DecToBin\bin\Debug\net6.0\DecToBin.deps.json
+D:\Projects\Algorithms\DecToBin\bin\Debug\net6.0\DecToBin.runtimeconfig.json
+D:\Projects\Algorithms\DecToBin\bin\Debug\net6.0\DecToBin.dll
+D:\Projects\Algorithms\DecToBin\bin\Debug\net6.0\DecToBin.pdb
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.csproj.AssemblyReference.cache
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.AssemblyInfoInputs.cache
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.AssemblyInfo.cs
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.dll
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\refint\DecToBin.dll
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.pdb
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\DecToBin.genruntimeconfig.cache
+D:\Projects\Algorithms\DecToBin\obj\Debug\net6.0\ref\DecToBin.dll
